@@ -22,3 +22,6 @@ class Solution(object):
                     longest = count
         
         return longest
+
+
+## think in terms of array and visualized sequences --> leads to how to make it into code
